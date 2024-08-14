@@ -1,7 +1,7 @@
 
 var typed = new Typed('#element', {
     strings: ['<SPAN>W</SPAN>elcome <SPAN>T</SPAN>o <SPAN>M</SPAN>y <SPAN>W</SPAN>orld !',
-    "I'm <span> A</span>ditya <span>R</span>aj <span>G</span>upta"],
+    "I'm <span> M</span>ahesh <span>S</span>ulegai <span>B</span>haskar"],
     typeSpeed: 75,
     backSpeed:40,
     });
